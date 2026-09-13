@@ -116,7 +116,7 @@ button {
   gap: 8px;
 }
 
-/* 어두운 섹션 위로 스크롤돼도 보이도록 로고도 알약 배경을 깔다 */
+/* 어두운 섹션 위로 스크롤돼도 보이도록 로고도 알약 배경을 긐다 */
 .logo {
   display: flex;
   align-items: center;
