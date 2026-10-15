@@ -40,7 +40,7 @@ export default function Hero() {
         <div className="hero-left">
           <motion.p className="hero-sub" {...up(16, 0.6)}>
             <i />
-            P-커리어캐치Ⅱ · 시니어노믹스 정책 제안
+            시니어노믹스 정책 제안
           </motion.p>
 
           <motion.h1 className="hero-title" {...up(20, 0.8)}>
